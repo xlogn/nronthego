@@ -1,4 +1,4 @@
-module github.com/xlogn/nronthego.git
+module github.com/xlogn/nronthego
 
 go 1.24.2
 
